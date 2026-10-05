@@ -8,10 +8,7 @@
 ## 👨‍💻 About Me
 
 - 💼 Full Stack Developer with **4.5+ years** of experience building scalable web applications
-- 🏢 Currently working at **Dharmesh Software Consultancy**
-- 🧰 Previously at **Kali MedTech**, **WildTigers** and **Mind Inventory**
 - 🎓 B.Tech in Computer Engineering, **CHARUSAT** (2022)
-- 📍 Based in **Ahmedabad, India**, open to opportunities in the **UAE**
 - 🤖 Exploring **Generative AI** and building AI-powered features into web apps
 
 ## 🛠️ Tech Stack
