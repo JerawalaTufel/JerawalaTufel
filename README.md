@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tufel Jerawala</h1>
-<h3 align="center">Full Stack Developer | MERN • Laravel • Next.js • NestJS • AWS • GenAI</h3>
+<h3 align="center">Full Stack Developer | MERN • Next.js • NestJS • Laravel • AWS • GenAI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JerawalaTufel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
